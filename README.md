@@ -53,7 +53,7 @@ also we are limited to access to data as it is mainly private, and also not all 
 Our model must detect fraud as fast as possible, we can also deal with imbalance if required. The model must be easy to read and simple. 
 
 
-
+## Loading Data
 
 Loading the data we used this website https://www.kaggle.com/mlg-ulb/creditcardfraud/data#, we then downloaded the cardfraud.csv file and began work on it. we beagn some basic analysis of the dat to get a better understanding of what the data was. Some of the data was easy to read such as Time, Amount etc.. but due to confidentiality we had V1 - V28 which was a result of an application of PCA transformation applied to the original ones. 
 
