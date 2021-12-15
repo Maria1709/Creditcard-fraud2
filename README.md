@@ -8,7 +8,7 @@
 
 ## Software and Libraries
 
-#importing libraries
+importing libraries
 import pandas as pd
 import numpy as np
 import os
@@ -37,5 +37,8 @@ The data set has 31 features, 28 labeled V1 to V28 resulting from PCA transforma
 other features are Time and Amount these represent seonds thats had lapsed between each transaction and the first transaction in this dataset. There is also a class feature which represents the label 1 for fraud transaction and o for a real transaction.
 
 
+
+
+## Algorithm Selection:
 
 
