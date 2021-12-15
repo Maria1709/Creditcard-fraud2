@@ -41,4 +41,12 @@ other features are Time and Amount these represent seonds thats had lapsed betwe
 
 ## Algorithm Selection:
 
+## Challenges involved in credit card fraud detection:
+
+Large amounts of data is processed daily and when building a model to deal with this it must have the capability to keep up with it,
+we deal with imbalanced dat which is the majority of the transactions 99.8% are not fraud related thus making it more complex to find the ones that are fraud related.
+alos we are limited to access to data as it is mainly private, and alos not all fraud cases are reported so this destorts data results.
+Our model must detect fraud as fast as possible, we can also deal with imbalance if required.
+
+
 
