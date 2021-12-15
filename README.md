@@ -41,12 +41,30 @@ other features are Time and Amount these represent seonds thats had lapsed betwe
 
 ## Algorithm Selection:
 
+Null Hypotheses
+
+
+
 ## Challenges involved in credit card fraud detection:
 
 Large amounts of data is processed daily and when building a model to deal with this it must have the capability to keep up with it,
 we deal with imbalanced dat which is the majority of the transactions 99.8% are not fraud related thus making it more complex to find the ones that are fraud related.
-alos we are limited to access to data as it is mainly private, and alos not all fraud cases are reported so this destorts data results.
-Our model must detect fraud as fast as possible, we can also deal with imbalance if required.
+also we are limited to access to data as it is mainly private, and also not all fraud cases are reported so this destorts data results.
+Our model must detect fraud as fast as possible, we can also deal with imbalance if required. The model must be easy to read and simple. 
+
+
+
+
+Loading the data we used this website https://www.kaggle.com/mlg-ulb/creditcardfraud/data#, we then downloaded the cardfraud.csv file and began work on it. we beagn some basic analysis of the dat to get a better understanding of what the data was. Some of the data was easy to read such as Time, Amount etc.. but due to confidentiality we had V1 - V28 which was a result of an application of PCA transformation applied to the original ones. 
+
+Time = the number of seconds that have lapsed between  this transaction to the  first one.
+
+Amount = is the transaction amount
+
+0 = others
+
+1 = fraud cases
+
 
 
 
