@@ -26,6 +26,8 @@ import scipy.stats as ss
 
 ## !pip install pycaret
 
+Pycaret is open source, and it is a machine learning library for Python, this allows us to prepare our data to deploy into our model within minutes.
+
 from pycaret.classification import *
 clf1 = setup(data = df, target = 'Class')
 
