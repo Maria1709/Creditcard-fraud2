@@ -70,3 +70,38 @@ Amount = is the transaction amount
 
 
 
+
+## References
+
+https://github.com/amancodeblast/Credit-Card-Fraud-Detection/blob/master/Credit%20card%20fraud%20detection%20using%20Pycaret_implementation.ipynb
+https://www.kaggle.com/mlg-ulb/creditcardfraud/version/3
+https://medium.com/analytics-vidhya/credit-card-fraud-detection-in-python-using-scikit-learn-f9046a030f50
+https://github.com/Maria1709/machine-learnig-assessment/blob/master/Boston1.0%20(7)%20(1).ipynb
+
+file:///C:/Users/maria/AppData/Roaming/jupyter/runtime/nbserver-6568-open.html
+https://www.kaggle.com/gpreda/credit-card-fraud-detection-predictive-models
+
+https://www.geeksforgeeks.org/ml-credit-card-fraud-detection/
+
+http://localhost:8888/?token=e37e222495797b8c0ee4f60e92af5b68117606aecff2eee2
+https://github.com/amancodeblast/Credit-Card-Fraud-Detection/blob/master/Credit%20card%20fraud%20detection%20using%20Pycaret_implementation.ipynb
+https://www.kaggle.com/mlg-ulb/creditcardfraud/version/3
+https://medium.com/analytics-vidhya/credit-card-fraud-detection-in-python-using-scikit-learn-f9046a030f50
+https://github.com/Maria1709/machine-learnig-assessment/blob/master/Boston1.0%20(7)%20(1).ipynb
+/
+file:///C:/Users/maria/AppData/Roaming/jupyter/runtime/nbserver-6568-open.html
+https://www.kaggle.com/gpreda/credit-card-fraud-detection-predictive-models
+
+https://www.geeksforgeeks.org/ml-credit-card-fraud-detection/
+
+http://localhost:8888/?token=e37e222495797b8c0ee4f60e92af5b68117606aecff2eee2
+    
+https://www.geeksforgeeks.org/ml-credit-card-fraud-detection/
+
+
+
+
+
+
+
+
