@@ -69,6 +69,9 @@ Amount = is the transaction amount
 
 1 = fraud cases
 
+We begin by looking at both the top 5 lines of data and the bottom 5 lines.Then we take a look of the shape of the data. 
+From the above data we can see that from looking at the data in Time, there has been 284807 transactions over a 2 day period
+
 Data Processing & Understanding
 
 The dataset is imbalanced towards a feature, as various banks have adopted dufferent mechanisms making it harder for them to have a data breach. But we will still see some vulnerability in the system, and thus this explains why most transactions are normal and a smaller percent are fraudulent.
