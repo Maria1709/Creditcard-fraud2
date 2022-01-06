@@ -188,7 +188,9 @@ Shape of Fraudulant transactions: (492, 31)
 
 Shape of Non-Fraudulant transactions: (284315, 31)
 
-Data Visualisation Here we will look at where there is fraud and where there is no fraud detected,
+## Data Visualisation 
+
+Here we will look at where there is fraud and where there is no fraud detected,
 
 Here we look at shape of data and fraudulent cases
 
@@ -201,13 +203,13 @@ Shape of Non-Fraudulant transactions: (284315, 31)
 
 The dataset is imbalanced towards a feature, as various banks have adopted dufferent mechanisms making it harder for them to have a data breach. But we will still see some vulnerability in the system, and thus this explains why most transactions are normal and a smaller percent are fraudulent.
 
-Plotting the Time feature
+## Plotting the Time feature
 
 
 ![image description](https://i.postimg.cc/RCt0bXmK/time.png)
 
 
-A sample of the output of histograms analysed
+## A sample of the output of histograms analysed
  
 
 ![image descroption](https://i.postimg.cc/7YWwHzqw/hist.png)
@@ -215,7 +217,7 @@ A sample of the output of histograms analysed
 
 
 
-Define a function to create a scatter plot of our data and labels
+## Define a function to create a scatter plot of our data and labels
 
 Plotting X and Y
  
@@ -226,14 +228,14 @@ sns.distplot(data['Amount'], bins=20)
 plt.show()
 
  
-Plot the subset of data to identify any patterns
+## Plot the subset of data to identify any patterns
 
 Sample below
 
  
 
 
-Lets take a look at a boxblot for the Time statistic
+## Lets take a look at a boxblot for the Time statistic
 
 
  
