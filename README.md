@@ -304,10 +304,14 @@ Using the stats models We can see the results are the same as above
 
 # Importing module and initializing setup
 
+![image description](https://i.postimg.cc/x88CLFD4/claissifiers.png)
+
+
 ## Multicollinearity is a phenomenon where one feature variable in the dataset is highly linearly correlated with another feature variable in the same dataset.
 
 
 Here we are comparing the models, using a logistic regression model, accuracy seen below is 0.9992. 
+
 
 
 
