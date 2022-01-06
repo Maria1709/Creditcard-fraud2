@@ -70,11 +70,14 @@ Amount = is the transaction amount
 1 = fraud cases
 
 We begin by looking at both the top 5 lines of data and the bottom 5 lines.Then we take a look of the shape of the data. 
-From the above data we can see that from looking at the data in Time, there has been 284807 transactions over a 2 day period
+From the above data we can see that from looking at the data in Time.
+
+There has been 284807 transactions over a 2 day period
 
 Here we are showing the ammound of occurrencies of fraud within the data set and also where there is no fraud
 
 Output 
+
 0    284315
 1       492
 Name: Class, dtype: int64
@@ -82,25 +85,34 @@ Name: Class, dtype: int64
 Then we begin to  look at the ratio of fraud cases
 
 Output 
+
 Ratio of fraudulent cases: 0.001727485630620034
+
 Ratio of non-fraudulent cases: 0.9982725143693799
 
 As we can see from the above ratio result the percent of fraud cases detected is very low this is called a class imbalance issue which we will address further
 
 
 We look for maximum time
+
 172792.0
 
 We look at minimum time 
+
 0.0
 
 Here we look at the maximum amount accessed
+
 Output
+
 25691.16
 
 Minimum accessed
+
 Output
+
 0.00
+
 We then check for any null values in this particular data set
 
 Output
@@ -116,73 +128,89 @@ V3        0
 V4        0
 
 V5        0
+
 V6        0
+
 V7        0
+
 V8        0
+
 V9        0
+
 V10       0
+
 V11       0
+
 V12       0
+
 V13       0
+
 V14       0
+
 V15       0
+
 V16       0
+
 V17       0
+
 V18       0
+
 V19       0
+
 V20       0
+
 V21       0
+
 V22       0
+
 V23       0
+
 V24       0
+
 V25       0
+
 V26       0
+
 V27       0
+
 V28       0
+
 Amount    0
 Class     0
 dtype: int64
 
 
-lets create a subset of data to make plotting graphs more legible
+Lets create a subset of data to make plotting graphs more legible
 
-here we look at shape of data and fraudulent cases
+Here we look at shape of data and fraudulent cases
 
 Shape of Fraudulant transactions: (492, 31)
+
 Shape of Non-Fraudulant transactions: (284315, 31)
 
 Data Visualisation Here we will look at where there is fraud and where there is no fraud detected,
 
-here we look at shape of data and fraudulent cases
+Here we look at shape of data and fraudulent cases
 
 Shape of Fraudulant transactions: (492, 31)
+
 Shape of Non-Fraudulant transactions: (284315, 31)
 
 
-
-
-Data Processing & Understanding
+## Data Processing & Understanding
 
 The dataset is imbalanced towards a feature, as various banks have adopted dufferent mechanisms making it harder for them to have a data breach. But we will still see some vulnerability in the system, and thus this explains why most transactions are normal and a smaller percent are fraudulent.
 
-Plotting the time feature
+Plotting the Time feature
 
 
 ![image description](https://i.postimg.cc/RCt0bXmK/time.png)
- 
-
-![image descroption](https://i.postimg.cc/7YWwHzqw/hist.png)
-
 
 
 A sample of the output of histograms analysed
-
-
-
  
 
-
-
+![image descroption](https://i.postimg.cc/7YWwHzqw/hist.png)
 
 
 
