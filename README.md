@@ -102,12 +102,19 @@ Minimum accessed
 Output
 0.00
 We then check for any null values in this particular data set
+
 Output
+
 Time      0
+
 V1        0
+
 V2        0
+
 V3        0
+
 V4        0
+
 V5        0
 V6        0
 V7        0
