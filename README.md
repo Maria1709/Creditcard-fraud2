@@ -238,13 +238,13 @@ plt.show()
 Sample below
 
  
-
+![image description](https://i.postimg.cc/0NqtzYGm/pairgrid.png)
 
 ## Lets take a look at a boxblot for the Time statistic
 
 
  
-
+![image description](https://i.postimg.cc/ZRn6nnQp/boxplot.png)
 
 
 
