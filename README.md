@@ -220,6 +220,8 @@ The dataset is imbalanced towards a feature, as various banks have adopted duffe
 ## Define a function to create a scatter plot of our data and labels
 
 Plotting X and Y
+
+![image description](https://i.postimg.cc/KjKhv7FL/im3.png)
  
 
 Lets plot some of the statistic contained in the data set
@@ -227,7 +229,10 @@ The median value of it is normally distributed except for a few outliers represe
 sns.distplot(data['Amount'], bins=20)
 plt.show()
 
- 
+
+
+![image description](https://i.postimg.cc/4yHjTJbQ/distplot.png)
+
 ## Plot the subset of data to identify any patterns
 
 Sample below
