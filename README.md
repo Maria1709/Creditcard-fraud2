@@ -297,6 +297,27 @@ Using the stats models We can see the results are the same as above
 
 
 
+## We are now going to install pycaret
+
+![image description](https://i.postimg.cc/qqVnwTw5/pycaret-iniatilizing.png)
+
+
+# Importing module and initializing setup
+
+## Multicollinearity is a phenomenon where one feature variable in the dataset is highly linearly correlated with another feature variable in the same dataset.
+
+
+Here we are comparing the models, using a logistic regression model, accuracy seen below is 0.9992. 
+
+
+
+## This is a regression model
+
+![image description](https://i.postimg.cc/FzNz1sDN/regression-model.png)
+
+
+
+
 
 
 
