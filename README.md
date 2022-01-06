@@ -164,7 +164,7 @@ Plotting the time feature
 ![image description](https://i.postimg.cc/RCt0bXmK/time.png)
  
 
-[time.png](https://postimg.cc/LhHRJkn8)
+![image descroption](https://i.postimg.cc/7YWwHzqw/hist.png)
 
 
 
