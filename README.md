@@ -1,4 +1,6 @@
 # Creditcard-fraud2
+# A program that uses AI to analyse data
+
 
 ![Image Description](https://miro.medium.com/max/3000/1*3f4KQvOVZQRCsFLxvHD4rA.jpeg)
 
@@ -67,6 +69,9 @@ Amount = is the transaction amount
 
 1 = fraud cases
 
+Data Processing & Understanding
+
+The dataset is imbalanced towards a feature, as various banks have adopted dufferent mechanisms making it harder for them to have a data breach. But we will still see some vulnerability in the system, and thus this explains why most transactions are normal and a smaller percent are fraudulent.
 
 
 
