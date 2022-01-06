@@ -158,6 +158,47 @@ Data Processing & Understanding
 
 The dataset is imbalanced towards a feature, as various banks have adopted dufferent mechanisms making it harder for them to have a data breach. But we will still see some vulnerability in the system, and thus this explains why most transactions are normal and a smaller percent are fraudulent.
 
+Plotting the time feature
+ 
+
+
+
+A sample of the output of histograms analysed
+
+
+
+ 
+
+
+
+
+
+
+
+Define a function to create a scatter plot of our data and labels
+
+Plotting X and Y
+ 
+
+Lets plot some of the statistic contained in the data set
+The median value of it is normally distributed except for a few outliers represented by the bell shaped curve. 
+sns.distplot(data['Amount'], bins=20)
+plt.show()
+
+ 
+Plot the subset of data to identify any patterns
+
+Sample below
+
+ 
+
+
+Lets take a look at a boxblot for the Time statistic
+
+
+ 
+
+
 
 
 
