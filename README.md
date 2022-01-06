@@ -262,6 +262,42 @@ Lets take a look at a subset of the Credit Card dataset
 ![image description](https://i.postimg.cc/QdpMgD7P/correlation-matrix.png)
 
 
+## Here we are going to see how many fraud cases are actually in the dataset
+
+
+Output
+
+0.0017304750013189597
+
+Fraud Cases: 492
+
+Valid Transactions: 284315
+
+Highest corelations were: 
+
+Time & V3 = (-0.42) The Amount and V2 = (-0.53) The Amount and V4 = (0.4)
+
+The null hypothesis test
+
+
+Output
+
+Ttest_indResult(statistic=1064.513181817115, pvalue=0.0)
+
+
+Given the 0 p value in this T-Test
+
+Output
+
+(1064.513181817115, 0.0, 569612.0)
+
+Using the stats models We can see the results are the same as above
+
+![image description](https://i.postimg.cc/MG7d8nQD/stats-plot.png)
+
+
+
+
 
 
 ## References
