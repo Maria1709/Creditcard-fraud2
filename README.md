@@ -299,10 +299,12 @@ Using the stats models We can see the results are the same as above
 
 ## We are now going to install pycaret
 
+# Importing module and initializing setup
+
 ![image description](https://i.postimg.cc/qqVnwTw5/pycaret-iniatilizing.png)
 
 
-# Importing module and initializing setup
+
 
 ![image description](https://i.postimg.cc/x88CLFD4/claissifiers.png)
 
@@ -315,7 +317,7 @@ Here we are comparing the models, using a logistic regression model, accuracy se
 
 
 
-## This is a regression model
+## Regression model
 
 ![image description](https://i.postimg.cc/FzNz1sDN/regression-model.png)
 
