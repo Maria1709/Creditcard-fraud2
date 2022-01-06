@@ -159,6 +159,9 @@ Data Processing & Understanding
 The dataset is imbalanced towards a feature, as various banks have adopted dufferent mechanisms making it harder for them to have a data breach. But we will still see some vulnerability in the system, and thus this explains why most transactions are normal and a smaller percent are fraudulent.
 
 Plotting the time feature
+
+
+https://i.postimg.cc/RCt0bXmK/time.png
  
 
 [time.png](https://postimg.cc/LhHRJkn8)
