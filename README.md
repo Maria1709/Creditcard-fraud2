@@ -247,6 +247,21 @@ Sample below
 ![image description](https://i.postimg.cc/ZRn6nnQp/boxplot.png)
 
 
+## Data Correlation 
+Lets take a look at a subset of the Credit Card dataset 
+
+![image description](https://i.postimg.cc/c4k7qQ5Z/correlation.png)
+
+
+
+![image description](https://i.postimg.cc/FRPzfxSH/pairgrid-time-and-ammount.png)
+
+
+## Correlation Matrix
+
+![image description](https://i.postimg.cc/QdpMgD7P/correlation-matrix.png)
+
+
 
 
 ## References
