@@ -161,6 +161,8 @@ The dataset is imbalanced towards a feature, as various banks have adopted duffe
 Plotting the time feature
  
 
+![image descroption](time.png)
+
 
 
 A sample of the output of histograms analysed
