@@ -323,7 +323,9 @@ Here we are comparing the models, using a logistic regression model, accuracy se
 
 
 
+## Conclusion
 
+As we have seen the data is imbalanced, but we can see that there are various processes and models that can be used to anlayse data to address the class imbalance, and come within 99.00 % accuracy of detecting credit card fraud transactions and patterns thus helping the banks deal with an ongoing threat of severe financial loss for the banking system globally.
 
 
 
